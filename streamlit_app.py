@@ -2,6 +2,8 @@ import streamlit
 
 streamlit.title('My Parents new healthy dinner')
 
-streamlit.title('Menu')
+streamlit.header('Menu')
 
-streamlit.title('Scrambelled eggs')
+streamlit.text('Scrambelled eggs')
+streamlit.text('Puri Bhaji')
+streamlit.text('Aloo Paratha')
